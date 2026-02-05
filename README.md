@@ -1,4 +1,4 @@
-# Notes-Terraform
+# Terraform notes
 
 ## 1. Getting Started with Terraform
 
